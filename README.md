@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">A Passionate to Learn Programming Concepts and Love Coding</h3>
-
+<h4 align="center"><b>What I Think:- </b>Practical Implementation using Theoretical Knowledge is Far more Efficient than Simply Acquiring Theory Alone.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prgahmad&label=Profile%20views&color=0e75b6&style=flat" alt="prgahmad" height="30"/> </p>
 
 - 🌱 I’m currently learning **Flutter And Python**
 
 - 📫 How to reach me **prgahmadraza786@gmail.com**
 
-- ⚡ Fun fact **I Want Like To Get Theory Knowledge With Practical Implementation**
+- ⚡ Fun fact **Computer communicates through 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
